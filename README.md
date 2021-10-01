@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## My Personal Website
 
 You can use the [editor on GitHub](https://github.com/ljstan/ljstan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
